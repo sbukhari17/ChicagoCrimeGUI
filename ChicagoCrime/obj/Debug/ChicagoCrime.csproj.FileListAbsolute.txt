@@ -1,0 +1,17 @@
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\bin\Debug\ChicagoCrime.exe.config
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\obj\Debug\ChicagoCrime.csprojResolveAssemblyReference.cache
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\obj\Debug\ChicagoCrime.Form1.resources
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\obj\Debug\ChicagoCrime.Properties.Resources.resources
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\obj\Debug\ChicagoCrime.csproj.GenerateResource.Cache
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\bin\Debug\ChicagoCrime.exe
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\bin\Debug\ChicagoCrime.pdb
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\bin\Debug\FSharp.Charting.dll
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\bin\Debug\FSharp.Core.dll
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\bin\Debug\FSLib.dll
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\bin\Debug\FSLib.pdb
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\bin\Debug\FSLib.xml
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\bin\Debug\FSharp.Charting.pdb
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\bin\Debug\FSharp.Charting.xml
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\bin\Debug\FSharp.Core.xml
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\obj\Debug\ChicagoCrime.exe
+C:\Users\syedb\Desktop\cs341\341Homework5\ChicagoCrime\obj\Debug\ChicagoCrime.pdb

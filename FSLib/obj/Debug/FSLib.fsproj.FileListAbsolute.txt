@@ -1,0 +1,10 @@
+C:\Users\syedb\Desktop\cs341\341Homework5\FSLib\bin\Debug\FSLib.XML
+C:\Users\syedb\Desktop\cs341\341Homework5\FSLib\bin\Debug\FSLib.dll
+C:\Users\syedb\Desktop\cs341\341Homework5\FSLib\bin\Debug\FSLib.pdb
+C:\Users\syedb\Desktop\cs341\341Homework5\FSLib\bin\Debug\FSharp.Charting.dll
+C:\Users\syedb\Desktop\cs341\341Homework5\FSLib\bin\Debug\FSharp.Core.dll
+C:\Users\syedb\Desktop\cs341\341Homework5\FSLib\bin\Debug\FSharp.Charting.pdb
+C:\Users\syedb\Desktop\cs341\341Homework5\FSLib\bin\Debug\FSharp.Charting.xml
+C:\Users\syedb\Desktop\cs341\341Homework5\FSLib\bin\Debug\FSharp.Core.xml
+C:\Users\syedb\Desktop\cs341\341Homework5\FSLib\obj\Debug\FSLib.dll
+C:\Users\syedb\Desktop\cs341\341Homework5\FSLib\obj\Debug\FSLib.pdb
